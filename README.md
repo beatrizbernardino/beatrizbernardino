@@ -1,7 +1,9 @@
-#### Beatriz Rianho Bernardino
----
+### Beatriz Rianho Bernardino
+
 <a href="https://www.linkedin.com/in/beatriz-bernardino18/">
 <img height="25em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
+
+#### My Stats
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizbernardino&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
